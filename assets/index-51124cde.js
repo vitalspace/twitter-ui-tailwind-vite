@@ -9,7 +9,7 @@
         </div>
       </div>
 
-      <div class="mx-4 flex space-x-8">
+      <div class="mx-4 flex space-x-8 px-2">
         <button class="items-center rounded-full bg-white hidden md:flex"><img width="40" src="icons/home-4-svgrepo-com.svg" alt="" /><p class="px-2">Home</p></button>
 
         <button class="hidden md:flex">
